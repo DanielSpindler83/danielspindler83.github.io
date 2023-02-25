@@ -7,6 +7,6 @@ Some of the main areas will include:
 - My journey of learning .NET Core
 - and lots more!
 
-My main goal is to record my learning journey, document important concepts so that I understand them better and to try and help others.
+My main goal is to record my learning journey, document important concepts so that I understand them better and to try to help others.
 
 Thanks for dropping by!
